@@ -1,7 +1,6 @@
 # PhapDien Web Scraper & ChromaDB Vector Search
 
 ## Introduction
-Hello,
 
 This repository contains my submission for the **ISODS George Washington Institute of Data Science & Artificial Intelligence - NLP and Data Science Internship & Volunteership 2025-2026** entrance test. 
 
